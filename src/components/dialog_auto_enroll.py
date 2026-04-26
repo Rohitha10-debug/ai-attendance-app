@@ -31,7 +31,7 @@ def auto_enroll_dialog(subject_code):
     col1, col2 = st.columns(2)
 
     with col1:
-        if st.button('No thanks'):
+        if st.button('No thanks',type='primary', width='stretch'):
             st.query_params.clear()
             st.rerun()
     with col2:
