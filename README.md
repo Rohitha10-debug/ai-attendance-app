@@ -99,7 +99,7 @@ SnapClass-AI/
 
 ---
 
-## Developer
+## Author
 
 **Rohitha Panchamukhi M**
 
